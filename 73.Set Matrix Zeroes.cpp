@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 #include <vector>
+using namespace std;
 vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix, int n, int m)
 {
     int col0 = 1;

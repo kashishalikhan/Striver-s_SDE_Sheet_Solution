@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 vector<int> generateRow(int row)
 {
     long long ans = 1;
